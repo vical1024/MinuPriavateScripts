@@ -1,0 +1,3 @@
+set USER_=
+set PASSWORD_=
+set QUERYNAME_=
